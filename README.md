@@ -13,4 +13,5 @@ That's my main programming languages for programming :
 - ❌ I don't use JAVA  
 
 Also : 
-- Typescript (website & apps)
+- Typescript 
+- Vue (for website) 
