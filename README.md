@@ -1,5 +1,7 @@
 Hello, This is 🦜FriedParrot😄! 
 
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=friedparrot&show_icons=true&theme=dracula">
+
 Coding is my hobby💖, and I'm specialize in mechanics currently.  
 
 My personal website  (on developing) : [hellofriedparrot.club](https://hellofriedparrot.club/), and this is also an open-source blog platform!
