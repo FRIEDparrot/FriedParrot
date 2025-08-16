@@ -7,7 +7,8 @@ My personal website  (on developing) : [hellofriedparrot.club](https://hellofrie
 That's my main programming languages for programming :
 
 - 🐍 Python (website backend, mysql, machine learning, fem)   
-- C/C++ (stm32, simple algorithms) 
+- C/C++ (stm32, simple algorithms)
+- MATLAB 
 - C#   
 - ❌ I don't use JAVA  
 
