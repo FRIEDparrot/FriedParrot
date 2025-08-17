@@ -1,6 +1,6 @@
 Hello, This is 🦜FriedParrot😄! 
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=friedparrot&show_icons=true&theme=tokyonight">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=friedparrot&show_icons=true&theme=tokyonight">
 
 Coding is my hobby💖, and I'm specialize in mechanics currently.  
 
