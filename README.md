@@ -11,7 +11,8 @@ That's my main languages for programming :
 - 🐍 Python (website backend, mysql, machine learning, fem)   
 - C/C++ (stm32, simple algorithms)
 - MATLAB 
-- C#   
+- C#
+- Visual Basic (But don't like using this for developing)
 - ❌ I don't use JAVA  
 
 Also : 
