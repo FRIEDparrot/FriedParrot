@@ -12,7 +12,7 @@ That's my main languages for programming :
 - C/C++ (stm32, simple algorithms)
 - MATLAB 
 - C#
-- Visual Basic (But don't like using this for developing)
+- Visual Basic .NET (But don't like using this for developing)
 - ❌ I don't use JAVA  
 
 Also : 
